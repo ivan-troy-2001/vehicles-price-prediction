@@ -34,7 +34,7 @@ Hence, R2 squared is also known as Coefficient of Determination or sometimes als
 
 ## Getting Started
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Dataset is kept [here](Repo folder containing raw data) within this repo.
+2. Dataset is kept [here](data) within this repo.
 3. Run Jupyter notebook.
 
 ## Deliverables
