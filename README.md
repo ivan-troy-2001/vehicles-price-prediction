@@ -38,7 +38,7 @@ Hence, R2 squared is also known as Coefficient of Determination or sometimes als
 3. Run Jupyter notebook.
 
 ## Deliverables
-* Jupyter notebook: [vehicles-price-prediction.ipynb](link)
+* Jupyter notebook: [vehicles-price-prediction.ipynb](vehicles-price-prediction.ipynb)
 
 ## Author
 * [Ivan Santaella Martinez](mailto:itsantaella@gmail.com)
